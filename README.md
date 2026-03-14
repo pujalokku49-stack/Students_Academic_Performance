@@ -1,19 +1,10 @@
-# Students_Academic_Performance
-This project focuses on analyzing and visualizing student academic performance using data-driven techniques. The system is designed to help educators and institutions understand student progress, identify patterns in academic results, and make informed decisions to improve learning outcomes.
+🚀 Excited to share my latest project: **Student Academic Performance Analytics Dashboard**
 
-The application was developed using Python, Streamlit, Pandas, and Plotly to create an interactive dashboard for exploring student data. The platform allows users to visualize various academic metrics such as subject-wise scores, attendance trends, and overall performance comparisons.
+Built an interactive dashboard using **Python, Pandas, Plotly, and Streamlit** to analyze and visualize student academic performance. The application provides insights into subject-wise scores, performance trends, and predictive analytics to support data-driven educational decisions.
 
-Key features of the project include:
+This project helped me strengthen my skills in **data visualization, analytics, and web app deployment**.
 
--> Interactive data visualization dashboards for student performance analysis
+🔗 Live App: [Add Streamlit Link]
+💻 GitHub: [Add GitHub Link]
 
--> Graphical representation of subject-wise scores and academic trends
-
--> Predictive insights for future performance using machine learning models
-
--> User-friendly interface built with Streamlit for easy navigation
-
--> Data filtering and dynamic chart generation for deeper insights
-
-By transforming raw academic data into meaningful visual insights, this project demonstrates how data science and analytics can support better academic decision-making and improve student success.
-
+#DataScience #Python #Streamlit #DataVisualization #AIML #StudentProjects
