@@ -4,7 +4,7 @@ Built an interactive dashboard using **Python, Pandas, Plotly, and Streamlit** t
 
 This project helped me strengthen my skills in **data visualization, analytics, and web app deployment**.
 
-🔗 Live App: [Add Streamlit Link]
+🔗 Live App: [studentsacademicperformance-7t33mnswrjyeb7nkujsjwj.streamlit.app]
 💻 GitHub: [https://github.com/pujalokku49-stack/Students_Academic_Performance.git]
 
 #DataScience #Python #Streamlit #DataVisualization #AIML #StudentProjects
